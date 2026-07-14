@@ -41,7 +41,7 @@ Churn by Customer Segment
 Churn by Internet Service
 
 
-![Executive Dashboard](Desktop/execdash.png)
+![Executive Dashboard](archive/execdash.png)
 
 Customer Analysis
 
@@ -56,7 +56,7 @@ Churn by Monthly Charge Band
 Interactive Slicers
 
 
-![Customer Analysis](Desktop/custanalysis.png)
+![Customer Analysis](archive/custanalysis.png)
 
 Key Findings
 Customers on month-to-month contracts exhibit the highest churn rate.
